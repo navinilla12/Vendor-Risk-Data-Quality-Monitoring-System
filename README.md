@@ -1,18 +1,18 @@
-# Workflow Intake & SLA Tracking System
+# Vendor Risk & Data Quality Monitoring System
 
 ## Overview
-Simulates enterprise workflow intake, task routing, and SLA tracking similar to Jira-based systems.
+This project simulates a vendor data quality monitoring system used in third-party risk workflows.
 
 ## Features
-- Ticket intake simulation
-- SLA breach detection
-- Priority-based workflow analysis
-- SQL-based status tracking
+- Data quality scoring (missing values, uniqueness)
+- Data cleaning & standardization
+- SQL-based vendor analytics (SQLite simulation of Snowflake)
+- Export for BI dashboards
 
 ## Tech Stack
-Python, Pandas, SQLite, SQL, SLA analytics
+Python, Pandas, SQLite (Snowflake simulation), SQL, Data Quality Analysis
 
 ## Output
-- Workflow dataset
-- SLA summary
-- Status tracking report
+- Clean dataset
+- Data quality report
+- SQL aggregated insights
