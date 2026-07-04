@@ -1,0 +1,16 @@
+,missing_values,missing_percent,unique_values
+survived,0,0.0,2
+pclass,0,0.0,3
+sex,0,0.0,2
+age,177,19.865319865319865,88
+sibsp,0,0.0,7
+parch,0,0.0,7
+fare,0,0.0,248
+embarked,2,0.22446689113355783,3
+class,0,0.0,3
+who,0,0.0,3
+adult_male,0,0.0,2
+deck,688,77.21661054994388,7
+embark_town,2,0.22446689113355783,3
+alive,0,0.0,2
+alone,0,0.0,2
